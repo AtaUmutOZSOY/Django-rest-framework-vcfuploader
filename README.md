@@ -11,7 +11,7 @@ This repository was created for the Genoks Genetic Diseases Assessment Center in
 #### Clone Repository
 
 ```bash
-  git clone https://github.com/AtaUmutOZSOY/VCFSplitter.git
+  git clone https://github.com/AtaUmutOZSOY/Django-rest-framework-vcfuploader.git
 
 ```
 
